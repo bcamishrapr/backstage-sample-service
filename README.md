@@ -75,5 +75,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbriandesousa%2Fbackstage-sample-service.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbriandesousa%2Fbackstage-sample-service?ref=badge_large)
-
-HELL
